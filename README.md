@@ -11,4 +11,4 @@ Ejecute el script y siga al asistente:
 Una vez que finaliza, puede ejecutarlo nuevamente para agregar más usuarios, eliminar algunos de ellos o incluso desinstalar completamente OpenVPN.
 
 ### Visite nuestra Web
-[SysadminsdeCuba] (https://www.sysadminsdecuba.com) ¡Gracias!
+[SysadminsdeCuba](https://www.sysadminsdecuba.com) ¡Gracias!
